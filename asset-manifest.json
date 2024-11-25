@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Birthday-Wish/static/css/main.a8528d75.css",
+    "main.js": "/Birthday-Wish/static/js/main.30cd9552.js",
+    "static/js/453.ed3810f9.chunk.js": "/Birthday-Wish/static/js/453.ed3810f9.chunk.js",
+    "static/media/Tunekyakia.mp3": "/Birthday-Wish/static/media/Tunekyakia.4a5778f814864228ccfe.mp3",
+    "static/media/pexels-photo-3607029.webp": "/Birthday-Wish/static/media/pexels-photo-3607029.bcb4722ebc9f72067713.webp",
+    "index.html": "/Birthday-Wish/index.html",
+    "main.a8528d75.css.map": "/Birthday-Wish/static/css/main.a8528d75.css.map",
+    "main.30cd9552.js.map": "/Birthday-Wish/static/js/main.30cd9552.js.map",
+    "453.ed3810f9.chunk.js.map": "/Birthday-Wish/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8528d75.css",
+    "static/js/main.30cd9552.js"
+  ]
+}
