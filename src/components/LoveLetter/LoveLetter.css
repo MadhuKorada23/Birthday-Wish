@@ -73,3 +73,10 @@
   .bodybody{
     background-color: black;
   }
+
+  body {
+    background-image: url("C:\Users\madhu\Desktop\REACT\back.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
