@@ -38,10 +38,7 @@ const LoveLetter = () => {
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
          
 
-        One of the most beautiful days of this year has come today✨.It is your day. 
-        I wish you a very Happy B-DAY🎂 Vijju Garu💗. Enjoy the day with lots of joy and all the things you love🥰.
-        Make this day full of memories💫. You have a pretty smile on your face, keep it throughout the year☺️. Be happy☺️.
-        May all your dreams come true✨. I wish you good luck and endless success in life👍.             .@madhu korada🤍.
+        ..
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
